@@ -1,2 +1,5 @@
 # Compiler projects:
-<h2> <ol> Lexical Analyser </ol></h2>
+<ul>
+  <h2> Lexical Analyser</h2>
+  <h2> Fist&FOllow calculator</h2>
+</ul>
